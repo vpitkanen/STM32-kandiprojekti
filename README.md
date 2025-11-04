@@ -8,7 +8,7 @@ Projektin tarkoituksena oli tutkia kahden eri STM32-mallin suorituskykyä kuvans
 Toteutus hyödyntää PSSI-tiedonsiirtoväylää, DMA-siirtoa, keskeytyksiä ja HAL-kirjaston tarjoamia laitetason funktioita.
 ---
 
-Toteutus, joka vastaanottaa **16-bittisiä, 128x128 pikselin kuvia anturilta** ja suorittaa **rivien summalaskennan** kuville kahdella eri STM32-mallilla.
+Repository sisältää testauskoodin, joka vastaanottaa **16-bittisiä, 128x128 pikselin kuvia anturilta** ja suorittaa **rivien summalaskennan** kuville STM32-mikrokontrollerilla.
 
 ---
 
