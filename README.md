@@ -4,7 +4,7 @@
 
 ## Yhteenveto
 
-Projektin tarkoituksena oli tutkia kahden eri STM32-mallin suorituskykyä kuvansiirrossa ja rivien summalaskennassa.  
+Projektin tarkoituksena oli tutkia kahden eri STM32-mallin suorituskykyä siirtää dataa anturilta sekä prosessoida se reaaliaikaisesti.  
 Toteutus hyödyntää PSSI-tiedonsiirtoväylää, DMA-siirtoa, keskeytyksiä ja HAL-kirjaston tarjoamia laitetason funktioita.
 ---
 
